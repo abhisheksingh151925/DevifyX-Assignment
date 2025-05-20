@@ -27,7 +27,7 @@ devifyx-data-table/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/devifyx-data-table.git
+git clone https://github.com/abhisheksingh151925/DevifyX-Assignment.git
 cd devifyx-data-table
 
 2. Open index.html in any modern browser.
